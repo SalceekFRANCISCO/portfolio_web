@@ -1,3 +1,3 @@
 # portfolio_web
 
-## sos
+## Este va a ser mi portfolio web con mis proyectos y mi info personal
